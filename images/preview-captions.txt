@@ -1,2 +1,0 @@
-[preview-07]
-en=Optional Hi-res glowmaps
