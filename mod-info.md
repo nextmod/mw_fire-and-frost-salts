@@ -2,7 +2,7 @@
 Fire and Frost Salts
 
 # Created by
-Nwahs and Mushrooms Team
+N'wahs & Mushrooms Team
 
 # Category
 Models and Textures
